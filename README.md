@@ -1,3 +1,5 @@
 # README
 
-![python_pycharm_icon_icon_257066](https://github.com/user-attachments/assets/3360e04c-64dd-45fd-bd38-4410c04ad336)
+![intellij_clion_macos_bigsur_icon_190059](https://github.com/user-attachments/assets/cbc21422-d11d-4437-a208-5921f1d0e2ac) <img width="256" alt="intellij_pycharm_macos_bigsur_icon_190055" src="https://github.com/user-attachments/assets/f259cf38-d91f-4395-9cc7-04bd49031bac" />
+
+
